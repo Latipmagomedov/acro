@@ -1,0 +1,11 @@
+//Base
+@import "../../scss/base/base";
+@import "./base/base"; //Catalo Base
+
+
+// Blocks
+@import "../../scss/blocks/header";
+@import "../../scss/blocks/footer";
+
+@import "./blocks/sidebar";
+@import "./blocks/product-cards";

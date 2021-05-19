@@ -1,0 +1,12 @@
+//Base
+@import "../../scss/base/base";
+@import "./base/base"; //card-product Base
+
+
+// Blocks
+@import "../../scss/blocks/header";
+@import "../../scss/blocks/footer";
+@import "../../scss/blocks/feedback";
+
+@import "./blocks/card-product";
+@import "./blocks/card-product-slider";
